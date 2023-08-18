@@ -8,7 +8,6 @@ I'm Aphinan Janta
 </p>
 
 ## 💻 Mainly used Languages:
--------
 HTML, CSS, JavaScript, Python 
 
 ## 🧰 Tools I've used
