@@ -1,5 +1,6 @@
-Hi 👋 My name is Aphinan Janta
-==============================
+Hi 👋,
+My name is Aphinan Janta
+
 
 Student
 -------
