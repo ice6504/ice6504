@@ -34,5 +34,5 @@ HTML, CSS, JavaScript, Python
 </a>
 
 <a href="https://github.com/ice6504" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice6504&theme=github_dark" alt="Top Languages" height="230" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice6504&theme=github_dark" alt="Top Languages" />
 </a>
