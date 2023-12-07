@@ -14,12 +14,9 @@ HTML, CSS, JavaScript, Python
 #### 📑 Text Editors/IDEs
 - Visual Studio, VS Code, PyCharm
 ### 📷Piture&Design
-- Photoshop, Illustrator, Figma, Canva
+- Photoshop, Illustrator, Figma
 ### 📹 Video
 - DaVinci Resolve, Premiere Pro
-#### 📰 Other Tools
-- Unity
-
 
 ## ⚒ Hobbies
 - Coding
