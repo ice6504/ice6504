@@ -1,5 +1,5 @@
-Hi 👋,
-I'm Aphinan Janta
+## Hi everyone, I'm Aphinan Janta(Ice)👋 
+I'm just a beginner programmer interested in web development.
 
 
 ## 📬 Connect with me:
@@ -12,9 +12,9 @@ HTML, CSS, JavaScript, Python
 
 ## 🧰 Tools I've used
 #### 📑 Text Editors/IDEs
-- Visual Studio, VS Code, PyCharm
+- VS Code ,Visual Studio 
 ### 📷Piture&Design
-- Photoshop, Illustrator, Figma
+- Photoshop, Illustrator, Figma, Canva
 ### 📹 Video
 - DaVinci Resolve, Premiere Pro
 
@@ -22,6 +22,7 @@ HTML, CSS, JavaScript, Python
 - Coding
 - Mockup Webpage
 - Design
+- Leaning
 
 
 ## 📊📈 My GitHub Stats
