@@ -11,8 +11,12 @@ I'm just a beginner programmer interested in web development.
 HTML, CSS, JavaScript, Python 
 
 ## 🧰 Tools I've used
+### Frontend Frameworks
+- Nuxt 3
+### CSS Frameworks 
+- Tailwindcss, DaisyUI
 #### 📑 Text Editors/IDEs
-- VS Code ,Visual Studio 
+- VS Code, Visual Studio 
 ### 📷Piture&Design
 - Photoshop, Illustrator, Figma, Canva
 ### 📹 Video
