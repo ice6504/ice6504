@@ -6,7 +6,7 @@ I'm just a beginner programmer interested in web development.
 <a href="https://instagram.com/aphinan6504" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aphinan6504" height="40" width="50" /></a>
 
 ## 💻 Mainly used Languages:
-![Myskills](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
+![HTML,CSS,JavaScript,Nodejs,Python](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
 
 ## 🧰 Tools I've used
 ### Frontend Frameworks
