@@ -6,19 +6,21 @@ I'm just a beginner programmer interested in web development.
 <a href="https://instagram.com/aphinan6504" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aphinan6504" height="40" width="50" /></a>
 
 ## 💻 Mainly used Languages:
-![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
+![Myskills](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
 
 ## 🧰 Tools I've used
 ### Frontend Frameworks
-![FE_Frameworks](https://skillicons.dev/icons?i=vite,react,nuxtjs)
+![Vite,React,Nuxt](https://skillicons.dev/icons?i=vite,react,nuxtjs)
 ### CSS Frameworks 
-![CSS_Frameworks](https://skillicons.dev/icons?i=tailwind)
-#### 📑 Text Editors/IDEs
-![CSS_Frameworks](https://skillicons.dev/icons?i=vscode)
-### 📷Piture&Design
-![Design](https://skillicons.dev/icons?i=photoshop,ai,figma)
-### 📹 Video
-![Video](https://skillicons.dev/icons?i=pr)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+### Text Editors/IDEs
+![VScode](https://skillicons.dev/icons?i=vscode)
+### Piture&Design
+![Photoshop,Illustrator,Figma](https://skillicons.dev/icons?i=ps,ai,figma)
+### Video
+![Premiere pro](https://skillicons.dev/icons?i=pr)
+### Notes
+![Notion](https://skillicons.dev/icons?i=notion&theme=light)
 
 ## ⚒ Hobbies
 - Coding
