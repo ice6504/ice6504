@@ -8,19 +8,19 @@ I'm just a beginner programmer interested in web development.
 </p>
 
 ## 💻 Mainly used Languages:
-HTML, CSS, JavaScript, Python 
+![Languages](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
 
 ## 🧰 Tools I've used
 ### Frontend Frameworks
-- Nuxt 3
+![FE_Frameworks](https://skillicons.dev/icons?i=vite,react,nuxtjs)
 ### CSS Frameworks 
-- Tailwindcss, DaisyUI
+![CSS_Frameworks](https://skillicons.dev/icons?i=tailwind)
 #### 📑 Text Editors/IDEs
-- VS Code, Visual Studio 
+![CSS_Frameworks](https://skillicons.dev/icons?i=vscode)
 ### 📷Piture&Design
-- Photoshop, Illustrator, Figma, Canva
+![Design](https://skillicons.dev/icons?i=photoshop,ai,figma)
 ### 📹 Video
-- DaVinci Resolve, Premiere Pro
+![Video](https://skillicons.dev/icons?i=pr)
 
 ## ⚒ Hobbies
 - Coding
