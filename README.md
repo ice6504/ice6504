@@ -1,26 +1,27 @@
-## Hi everyone, I'm Aphinan Janta(Ice)👋 
+# Hi everyone, I'm Aphinan Janta (Ice)👋 
 I'm just a beginner programmer interested in web development.
 
 ## 📬 Connect with me:
 <a href="https://www.facebook.com/Aphinan6504/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadowtak" height="40" width="50" /></a>
 <a href="https://instagram.com/aphinan6504" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aphinan6504" height="40" width="50" /></a>
 
-## 💻 Mainly used Languages:
+## 🌐 Mainly used Languages:
 ![HTML,CSS,JavaScript,Nodejs,Python](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
 
 ## 🧰 Tools I've used
-### Frontend Frameworks
-![Vite,React,Nuxt](https://skillicons.dev/icons?i=vite,react,nuxtjs)
-### CSS Frameworks 
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-### Text Editors/IDEs
+### 📦 Frameworks
+![Vite,React,Nuxt,Tailwind CSS](https://skillicons.dev/icons?i=vite,react,nuxtjs,tailwind)
+### 👨‍💻 Text Editors/IDE
 ![VScode](https://skillicons.dev/icons?i=vscode)
-### Piture&Design
+### 📷 Piture&Design
 ![Photoshop,Illustrator,Figma](https://skillicons.dev/icons?i=ps,ai,figma)
-### Video
+### 📹 Video
 ![Premiere pro](https://skillicons.dev/icons?i=pr)
-### Notes
+### 📝 Notes
 ![Notion](https://skillicons.dev/icons?i=notion&theme=light)
+
+## 💻 Operating System
+![Windows](https://skillicons.dev/icons?i=windows&theme=light)
 
 ## ⚒ Hobbies
 - Coding
