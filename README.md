@@ -2,8 +2,10 @@
 I'm just a beginner programmer interested in web development.
 
 ## 📬 Connect with me
-<a href="https://www.facebook.com/Aphinan6504/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadowtak" height="40" width="50" /></a>
-<a href="https://instagram.com/aphinan6504" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aphinan6504" height="40" width="50" /></a>
+<a href="https://www.facebook.com/Aphinan6504/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadowtak" height="48" /></a>
+<a href="https://instagram.com/aphinan6504" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="aphinan6504" /></a>
+<a href="mailto:aphinan6504@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail&theme=light" alt="aphinan6504" /></a>
+
 
 ## 🌐 Mainly used Languages
 ![HTML,CSS,JavaScript,Nodejs,Python](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
