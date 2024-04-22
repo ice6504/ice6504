@@ -1,11 +1,11 @@
 # Hi everyone, I'm Aphinan Janta (Ice)👋 
 I'm just a beginner programmer interested in web development.
 
-## 📬 Connect with me:
+## 📬 Connect with me
 <a href="https://www.facebook.com/Aphinan6504/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shadowtak" height="40" width="50" /></a>
 <a href="https://instagram.com/aphinan6504" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aphinan6504" height="40" width="50" /></a>
 
-## 🌐 Mainly used Languages:
+## 🌐 Mainly used Languages
 ![HTML,CSS,JavaScript,Nodejs,Python](https://skillicons.dev/icons?i=html,css,js,nodejs,python)
 
 ## 🧰 Tools I've used
@@ -27,7 +27,7 @@ I'm just a beginner programmer interested in web development.
 - Coding
 - Mockup Webpage
 - Design
-- Leaning
+- Learning
 
 ## 📊📈 My GitHub Stats                
 <a href="http://www.github.com/ice6504">
