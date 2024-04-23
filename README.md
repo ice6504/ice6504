@@ -15,7 +15,7 @@ I'm just a beginner programmer interested in web development.
 ![Vite,React,Nuxt,Tailwind CSS, MUI](https://skillicons.dev/icons?i=vite,react,nuxtjs,tailwind,mui)
 ### 👨‍💻 Text Editors/IDE
 ![VScode](https://skillicons.dev/icons?i=vscode)
-### 📷 Piture&Design
+### 📷 Picture&Design
 ![Photoshop,Illustrator,Figma](https://skillicons.dev/icons?i=ps,ai,figma)
 ### 📹 Video
 ![Premiere pro](https://skillicons.dev/icons?i=pr)
