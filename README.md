@@ -12,7 +12,7 @@ I'm just a beginner programmer interested in web development.
 
 ## 🧰 Tools I've used
 ### 📦 Frameworks
-![Vite,React,Nuxt,Tailwind CSS, MUI](https://skillicons.dev/icons?i=vite,react,nuxtjs,tailwind,mui)
+![Vite,React,Next,Nuxt,Tailwind CSS,MUI](https://skillicons.dev/icons?i=vite,react,nextjs,nuxtjs,tailwind,mui)
 ### 👨‍💻 Text Editors/IDE
 ![VScode](https://skillicons.dev/icons?i=vscode)
 ### 📷 Picture&Design
