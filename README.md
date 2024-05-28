@@ -31,10 +31,6 @@ I'm just a beginner programmer interested in web development.
 - Design
 - Learning
 
-## 📊📈 My GitHub Stats                
-<a href="https://github.com/ice6504">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice6504&show_icons=true&theme=github_dark" />
-</a>
-<a href="https://github.com/ice6504">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ice6504&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
-</a>
+## 📊📈 My GitHub Stats
+![ice6504,s Stats](https://github-readme-stats.vercel.app/api?username=ice6504&show_icons=true&theme=github_dark&card_width=450)
+![ice6504's Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ice6504&layout=compact&langs_count=8&theme=github_dark&card_width=450)
