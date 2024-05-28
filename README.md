@@ -32,9 +32,9 @@ I'm just a beginner programmer interested in web development.
 - Learning
 
 ## 📊📈 My GitHub Stats                
-<a href="http://www.github.com/ice6504">
-    <img src="https://github-readme-stats.vercel.app/api?username=ice6504&theme=github_dark" alt="ice6504's GitHub stats" height="230" />
+<a href="https://github.com/ice6504">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ice6504&show_icons=true&theme=github_dark" />
 </a>
-<a href="https://github.com/ice6504" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ice6504&theme=github_dark" alt="Top Languages" />
+<a href="https://github.com/ice6504">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ice6504&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
 </a>
