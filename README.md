@@ -3,7 +3,7 @@ I'm just a programmer who is interested in web development. I love building user
 
 <div align="center">
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ice6504&theme=transparent&hide_border=true&border_radius=0)](https://git.io/streak-stats)
+![ice6504's Streak](https://github-readme-streak-stats.herokuapp.com?user=ice6504&theme=transparent&hide_border=true&border_radius=0)
  
 ![Typescript,Nodejs,Python,Java,Vite,React,Nextjs,Nuxtjs,Taiwind,MUI,supabase,PostgreSQL,MySQL](https://skillicons.dev/icons?i=ts,nodejs,python,java,vite,react,nextjs,nuxtjs,tailwind,mui,supabase,postgresql,mysql)
 
